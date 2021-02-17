@@ -26,6 +26,7 @@ Notifikasi baterai pada windows untuk menghindari berlebihan dalam mengecas dan 
 
 ## Cara Menjalankan - How to Run
 1. Download the project
+1. Create the shortcut of ```BatteryNotif.vbs```
 2. Copy the shortcut to startup folder with use ```windows``` button + ```R```
 3. Type ```shell:startup```
 4. Paste the shortcut in Startup directory to autoload after shutdown/restart
