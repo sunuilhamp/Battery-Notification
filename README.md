@@ -17,6 +17,7 @@ Notifikasi baterai pada windows untuk menghindari berlebihan dalam mengecas dan 
 <p align="center">
         <img src="/images/battery1.png" width="1402" height="720">
 </p>
+
 # Low Battery
 <br>
 <p align="center">
