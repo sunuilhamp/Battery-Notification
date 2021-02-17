@@ -15,13 +15,13 @@ Notifikasi baterai pada windows untuk menghindari berlebihan dalam mengecas dan 
 
 <br>
 <p align="center">
-        <img src="/images/battery1.png" width="1280" height="500">
+        <img src="/images/battery1.png" width="1402" height="934">
 </p>
 
-<br>
+<!-- <br>
 <p align="center">
         <img src="/images/battery2.png" width="1280" height="500">
-</p>
+</p> -->
 
 
 ## Cara Menjalankan - How to Run
