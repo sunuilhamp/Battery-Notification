@@ -12,16 +12,16 @@ Battery notification on windows to avoid overcharge and broken battery because r
 Notifikasi baterai pada windows untuk menghindari berlebihan dalam mengecas dan rusaknya baterai karena mencapai titik 0%. Itu juga membantu untuk mengecas menggunakan aturan 35-92!
 
 ## Demo
-
+# Overcharge
 <br>
 <p align="center">
         <img src="/images/battery1.png" width="1402" height="720">
 </p>
-
-<!-- <br>
+# Low Battery
+<br>
 <p align="center">
-        <img src="/images/battery2.png" width="1280" height="500">
-</p> -->
+        <img src="/images/battery2.png" width="1402" height="720">
+</p>
 
 
 ## Cara Menjalankan - How to Run
