@@ -32,3 +32,6 @@ Notifikasi baterai pada windows untuk menghindari berlebihan dalam mengecas dan 
 3. Type ```shell:startup```
 4. Paste the shortcut in Startup directory to autoload after shutdown/restart
 5. Enjoy the notification that keeps your battery healthy and longer the battery life!
+
+## Ps
+You can edit the original file and change the minimum or maximum percentage depends on your PC and it will affect the shortcut in the next shutdown or restart
